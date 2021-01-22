@@ -1,1 +1,2 @@
 5. Ceci est un troisième fichier
+7. Ceci est l'édition de mon troisième fichier initial
