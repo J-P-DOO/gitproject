@@ -1,1 +1,2 @@
 3. Ceci est un deuxième fichier
+4. Ceci est l'édition de mon deuxième fichier
